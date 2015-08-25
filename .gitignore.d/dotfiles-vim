@@ -1,0 +1,12 @@
+*
+!/.gitignore.d
+!/.gitignore.d/dotfiles-vim
+!/.vim
+!/.vim/**
+!/.vimrc
+/.vim/backups/**
+!/.vim/backups/.keep
+/.vim/bundle/**
+!/.vim/bundle/.keep
+/.vim/tmp/**
+!/.vim/tmp/.keep
