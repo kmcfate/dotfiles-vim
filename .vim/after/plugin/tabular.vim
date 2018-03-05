@@ -1,1 +1,1 @@
-!silent :AddTabularPattern block /=>
+:silent! AddTabularPattern block /=>
